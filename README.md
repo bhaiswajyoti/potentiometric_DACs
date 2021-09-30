@@ -20,10 +20,10 @@ To achieve our aim of designing a 10-bit DAC we will be following a *Bottom Up A
 - [ngspice](http://ngspice.sourceforge.net/download.html)
 - [Skywater 130nm PDK](https://github.com/google/skywater-pdk)
 
-### The Switch
+### **The Switch**
 
 ![Screenshot (921)](https://user-images.githubusercontent.com/65102677/135522570-e6f1b304-4ec3-48f2-8cd5-fd0b1d5721a0.png)
-> Fig.2 Schematic of the Switch circuit designed using eSim
+> Fig.2  Schematic of the Switch circuit designed using eSim
 
 
 
