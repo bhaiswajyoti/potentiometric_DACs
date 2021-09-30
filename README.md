@@ -1,1 +1,1 @@
-# 10bit-potentiometric_DAC
+# 10bit_potentiometric_DAC
