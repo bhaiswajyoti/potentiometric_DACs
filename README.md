@@ -17,3 +17,7 @@ To achieve our aim of designing a 10-bit DAC we will be following a *Bottom Up A
 
 #### Tools used:
 - [eSim](https://esim.fossee.in/downloads)
+- [ngspice](http://ngspice.sourceforge.net/download.html)
+- [Skywater 130nm PDK](https://github.com/google/skywater-pdk)
+
+
