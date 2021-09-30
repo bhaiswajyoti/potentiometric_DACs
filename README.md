@@ -1,2 +1,5 @@
 # 10bit_potentiometric_DAC
-![Annotation 2021-09-30 214412](https://user-images.githubusercontent.com/65102677/135498197-2486d55a-54ad-435c-821c-27e69e2323d3.png)
+This is the github repository which documents the design of a 10 Bit Potentiometric Digital to Analog Converter which makes use of SKY130 technology with the help of simulation tools like eSim and ngspice. 
+
+##What is a DAC?
+
