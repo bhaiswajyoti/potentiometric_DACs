@@ -36,7 +36,7 @@ To achieve our aim of designing a 10-bit DAC we will be following a *Bottom Up A
 > Fig. 4 Transient Analysis of the Switch circuit 
 
 From the output graph for the Switch circuit we can observe that the circuit is working as intended.
-
+-------------------------------------------------------
 ## 2-bit DAC
 
 ![2bitSchematic](https://user-images.githubusercontent.com/65102677/135568324-d2053d63-0af6-4590-934d-43720dd0f4b7.png)
@@ -49,6 +49,86 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 
 ![2bitTplot](https://user-images.githubusercontent.com/65102677/135568574-315e6565-8315-4ffd-9473-8f7224349ebd.png)
 > Fig. 7 Transient analysis of the 2-bit DAC
+-------------------------------------------------------
+## 3-bit DAC
+
+![3bit](https://user-images.githubusercontent.com/65102677/135658426-11ff328b-c0b9-49e0-8ea1-f6a29e029bf6.png)
+> Fig. 8 Circuit Schematic of a 3-bit DAC designed in eSim
+
+![3bitspice](https://user-images.githubusercontent.com/65102677/135658471-47c21e9c-fa89-4639-a4ad-c00fab75f8bb.png)
+> Fig. 9 Simulation of the 3-bit DAC in pgspice
+
+![3bitoutput](https://user-images.githubusercontent.com/65102677/135658502-d233f94b-8c88-41f7-afd8-2ec36c6356df.png)
+> Fig. 10 Transient analysis of the 3-bit DAC
+-------------------------------------------------------
+## 4-bit DAC
+
+![schematic](https://user-images.githubusercontent.com/65102677/135658959-1b271e61-5553-467c-840a-c9e54a93529f.png)
+> Fig. 11 Circuit Schematic of a 4-bit DAC designed in eSim 
+
+![cktlevelsim](https://user-images.githubusercontent.com/65102677/135658986-4cd6d960-0758-49a0-870f-d71a7c600279.png)
+> Fig. 12 Simulation of the 4-bit DAC in pgspice
+
+![wave](https://user-images.githubusercontent.com/65102677/135659019-43c6ef8f-118e-4b44-b011-1ec6f0ac27e1.png)
+> Fig. 13 Transient analysis of the 4-bit DAC
+-------------------------------------------------------
+## 5-bit DAC
+
+![schematic](https://user-images.githubusercontent.com/65102677/135659268-dfa0271d-f84c-4c72-b1a8-25585224e368.png)
+> Fig. 14 Circuit Schematic of a 5-bit DAC designed in eSim
+
+![sim](https://user-images.githubusercontent.com/65102677/135659286-83074922-fb2c-4392-bf12-d0c2faef7b5c.png)
+> Fig. 15 Simulation of the 5-bit DAC in pgspice
+
+![waveform](https://user-images.githubusercontent.com/65102677/135659302-5025e415-88eb-48e5-a29f-0dbeca2d4afb.png)
+> Fig. 16 Transient analysis of the 5-bit DAC
+-------------------------------------------------------
+## 6-bit DAC
+
+![schematic](https://user-images.githubusercontent.com/65102677/135659651-328f9924-fc0b-4471-b013-6a9afb7a5f2f.png)
+> Fig. 17 Circuit Schematic of a 6-bit DAC designed in eSim
+
+![sim](https://user-images.githubusercontent.com/65102677/135659663-de78a334-080d-4efb-b487-51ed35bc16ed.png)
+> Fig. 18 Simulation of the 6-bit DAC in pgspice
+
+![waveform](https://user-images.githubusercontent.com/65102677/135659675-b369a97f-c6a5-4ccc-b549-26250c55e757.png)
+> Fig. 19 Transient analysis of the 6-bit DAC
+-------------------------------------------------------
+## 7-bit DAC
+
+![schematic](https://user-images.githubusercontent.com/65102677/135660194-d35ba46a-584c-479f-9c2d-26aee8ee0584.png)
+> Fig. 20 Circuit Schematic of a 7-bit DAC designed in eSim
+
+![sim](https://user-images.githubusercontent.com/65102677/135660274-00012481-9791-482e-b75c-9cfaa8d030c7.png)
+> Fig. 21 Simulation of the 7-bit DAC in pgspice
+
+![waveform](https://user-images.githubusercontent.com/65102677/135660407-d6ce3d94-5c2c-4dc4-bfc5-9b38a3c64e1b.png)
+> Fig. 22 Transient analysis of the 7-bit DAC
+-------------------------------------------------------
+## 8-bit DAC
+
+![schematic](https://user-images.githubusercontent.com/65102677/135660555-e852538d-9f1e-4702-9098-c7cda73c49d9.png)
+> Fig. 23 Circuit Schematic of a 8-bit DAC designed in eSim
+
+![sim](https://user-images.githubusercontent.com/65102677/135660614-f1db3175-9a36-4f19-8f66-f0d4a4d5c465.png)
+> Fig. 24 Simulation of the 8-bit DAC in pgspice
+
+![waveform](https://user-images.githubusercontent.com/65102677/135660694-164b7059-3f9b-4ec7-8438-e73bb001cf17.png)
+> Fig. 25 Transient analysis of the 8-bit DAC
+-------------------------------------------------------
+## 9-bit DAC
+
+![schematic](https://user-images.githubusercontent.com/65102677/135660878-f7f93f75-687b-47ba-860a-f12d83f95878.png)
+> Fig. 26 Circuit Schematic of a 9-bit DAC designed in eSim
+
+*Simulation in progress*
+-------------------------------------------------------
+# 10-bit DAC
+
+![schematic](https://user-images.githubusercontent.com/65102677/135661186-935bdb41-0821-4d17-b4b8-f8abdc572849.png)
+> Fig. 27 Circuit Schematic of a 10-bit DAC designed in eSim
+
+*Simulation in progress*
 
 
 
