@@ -1,5 +1,25 @@
 # DESIGNING A 10 BIT POTENTIOMETRIC DAC
+
 This is the github repository which documents the design of a 10 Bit Potentiometric Digital to Analog Converter which makes use of SKY130 technology with the help of simulation tools like eSim and ngspice. 
+
+## Table of Contents
+- [What is a DAC?](#what-is-a-dac-)
+  * [How do we implement a 10-bit DAC?](#how-do-we-implement-a-10-bit-dac-)
+- [Pre Layout Design and Simulation](#pre-layout-design-and-simulation)
+
+  * [The Switch](#the-switch)
+  
+  * [2-bit DAC](#2-bit-dac)
+  * [3-bit DAC](#3-bit-dac)
+  * [4-bit DAC](#4-bit-dac)
+  * [5-bit DAC](#5-bit-dac)
+  * [6-bit DAC](#6-bit-dac)
+  * [7-bit DAC](#7-bit-dac)
+  * [8-bit DAC](#8-bit-dac)
+  * [9-bit DAC](#9-bit-dac)
+  * [10-bit DAC](#10-bit-dac)
+
+
 
 # What is a DAC?
 DAC stands for Digital to Analog Converter, which as the name suggests is a system which converts a digital signal into an analog signal. Since the vast majority of signals in the real world are analog signals and digital systems can only work with digital signals as input, systems that can convert signals from analog to digital and vice versa become very crucial. After a digital system generates the output(which is a digital signal) it needs to be converted back to analog form to be readable or for further processing by analog systems, this is where we require a Digital to Analog converter(DAC).
@@ -122,6 +142,7 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 > Fig. 26 Circuit Schematic of a 9-bit DAC designed in eSim
 
 *Simulation in progress*
+
 -------------------------------------------------------
 # 10-bit DAC
 
