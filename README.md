@@ -23,12 +23,13 @@ To achieve our aim of designing a 10-bit DAC we will be following a *Bottom Up A
 ## The Switch
 
 
-![Screenshot (921)](https://user-images.githubusercontent.com/65102677/135522570-e6f1b304-4ec3-48f2-8cd5-fd0b1d5721a0.png)
+![switchSchematic](https://user-images.githubusercontent.com/65102677/135567712-e788946b-b3ec-42e0-8754-e960bac498a9.png)
+
 
 > Fig.2  Schematic of the Switch circuit designed using eSim
 
 ![switch run](https://user-images.githubusercontent.com/65102677/135523593-192ac68a-36cd-4ea4-a13b-2839ee9fde3a.png)
-> Fig. 3 Initializing analysis of the Switch circuit in pgspice 35
+> Fig. 3 Initializing transient analysis of the Switch circuit in pgspice 35
 
 ![t analysis of switch](https://user-images.githubusercontent.com/65102677/135523910-cf68c23a-2c86-410e-aefe-39a621a1012e.png)
 
@@ -38,13 +39,15 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 
 ## 2-bit DAC
 
-![2bit_DAC](https://user-images.githubusercontent.com/65102677/135524942-1a7914a7-6cf7-4fb9-8468-0f249eafda43.png)
+![2bitSchematic](https://user-images.githubusercontent.com/65102677/135568324-d2053d63-0af6-4590-934d-43720dd0f4b7.png)
+
 > Fig. 5 Circuit schematic of a 2-bit DAC designed using eSim
 
 ![Annotation 2021-09-30 214319](https://user-images.githubusercontent.com/65102677/135525558-916c4632-62d5-4858-b0b6-1bfb2d10a934.png)
 > Fig. 6 pgspice command window running transient analysis for the 2bit_DAC
 
-![2bitdac](https://user-images.githubusercontent.com/65102677/135525864-c1c7d11c-637d-41fe-8736-c18cdfe19c8e.png)
+
+![2bitTplot](https://user-images.githubusercontent.com/65102677/135568574-315e6565-8315-4ffd-9473-8f7224349ebd.png)
 > Fig. 7 Transient analysis of the 2-bit DAC
 
 
