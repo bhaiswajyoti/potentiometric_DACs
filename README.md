@@ -6,9 +6,7 @@ This is the github repository which documents the design of a 10 Bit Potentiomet
 - [What is a DAC?](#what-is-a-dac-)
   * [How do we implement a 10-bit DAC?](#how-do-we-implement-a-10-bit-dac-)
 - [Pre Layout Design and Simulation](#pre-layout-design-and-simulation)
-
   * [The Switch](#the-switch)
-  
   * [2-bit DAC](#2-bit-dac)
   * [3-bit DAC](#3-bit-dac)
   * [4-bit DAC](#4-bit-dac)
@@ -18,6 +16,10 @@ This is the github repository which documents the design of a 10 Bit Potentiomet
   * [8-bit DAC](#8-bit-dac)
   * [9-bit DAC](#9-bit-dac)
   * [10-bit DAC](#10-bit-dac)
+ - [Future Work](#future-work)
+ - [Contributors](#contributors)
+ - [Acknowledgements](#acknowledgements)
+
 
 
 
@@ -151,7 +153,18 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 
 *Simulation in progress*
 
+## Future Work
 
+Obtaining the simulations of 9-bit DAC and 10-bit DAC
+
+## Contributors
+
+- Bhaiswajyoti Lahon **BTech Electronics and Communications Engineering, North Eastern Hill University, Shillong** bhaiswajyoti@gmail.com
+
+## Acknowledgements
+
+- Kunal Ghosh, Co-Founder of VLSI System Design (VSD) Corp. Pvt. Ltd. - kunalghosh@gmail.com
+- Sameer S Durgoji , B.Tech (Electronics and Communication Engineering), National Institute of Technology Karnataka - sameerdurgoji@gmail.com
 
 
 
