@@ -142,7 +142,7 @@ Here we get 64 steps in the analog output as the system was given 6 digital inpu
 ![sim](https://user-images.githubusercontent.com/65102677/135660274-00012481-9791-482e-b75c-9cfaa8d030c7.png)
 > Fig. 21 Simulation of the 7-bit DAC in pgspice
 
-![7bit](https://user-images.githubusercontent.com/65102677/135713096-74959a9d-fbc6-45a4-ad9b-a4fabaf2d1ba.png)
+![7bit](https://user-images.githubusercontent.com/65102677/135715686-1832ea6f-0d76-441d-b776-699a4a3a833d.png)
 > Fig. 22 Transient analysis of the 7-bit DAC
 
 Here we get 128 steps in the analog output as the system was given 7 digital input bits.
