@@ -70,7 +70,7 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 > Fig. 6 pgspice command window running transient analysis for the 2bit_DAC
 
 
-![3bit](https://user-images.githubusercontent.com/65102677/135714391-b81fc832-5936-4fd7-abd9-637ca1e38a6c.png)
+![Annotation 2021-10-02 154738](https://user-images.githubusercontent.com/65102677/135714427-f22cf07f-ed78-4a28-9667-3e2ffd19ffc5.png)
 
 > Fig. 7 Transient analysis of the 2-bit DAC
 
@@ -86,7 +86,7 @@ We 2^2 = 4 steps in the analog output.
 ![3bitspice](https://user-images.githubusercontent.com/65102677/135658471-47c21e9c-fa89-4639-a4ad-c00fab75f8bb.png)
 > Fig. 9 Simulation of the 3-bit DAC in pgspice
 
-![3bitoutput](https://user-images.githubusercontent.com/65102677/135658502-d233f94b-8c88-41f7-afd8-2ec36c6356df.png)
+![3bit](https://user-images.githubusercontent.com/65102677/135714391-b81fc832-5936-4fd7-abd9-637ca1e38a6c.png)
 > Fig. 10 Transient analysis of the 3-bit DAC
 
 Here we get 8 steps in the analog output as the system was given 3 digital input bits.
