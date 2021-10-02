@@ -156,7 +156,7 @@ Here we get 128 steps in the analog output as the system was given 7 digital inp
 ![sim](https://user-images.githubusercontent.com/65102677/135660614-f1db3175-9a36-4f19-8f66-f0d4a4d5c465.png)
 > Fig. 24 Simulation of the 8-bit DAC in pgspice
 
-![waveform](https://user-images.githubusercontent.com/65102677/135660694-164b7059-3f9b-4ec7-8438-e73bb001cf17.png)
+![8bit](https://user-images.githubusercontent.com/65102677/135714159-04df1387-7fb5-4d76-ad26-d01c19114181.png)
 > Fig. 25 Transient analysis of the 8-bit DAC
 
 Here we get 256 steps in the analog output as the system was given 8 digital input bits.
