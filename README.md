@@ -70,7 +70,7 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 > Fig. 6 pgspice command window running transient analysis for the 2bit_DAC
 
 
-![Annotation 2021-10-02 154738](https://user-images.githubusercontent.com/65102677/135712355-01f3c191-d9ff-4bec-b7af-18894885d5b1.png)
+![3bit](https://user-images.githubusercontent.com/65102677/135714391-b81fc832-5936-4fd7-abd9-637ca1e38a6c.png)
 
 > Fig. 7 Transient analysis of the 2-bit DAC
 
