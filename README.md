@@ -70,8 +70,13 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 > Fig. 6 pgspice command window running transient analysis for the 2bit_DAC
 
 
-![2bitTplot](https://user-images.githubusercontent.com/65102677/135568574-315e6565-8315-4ffd-9473-8f7224349ebd.png)
+![Annotation 2021-10-02 154738](https://user-images.githubusercontent.com/65102677/135712355-01f3c191-d9ff-4bec-b7af-18894885d5b1.png)
+
 > Fig. 7 Transient analysis of the 2-bit DAC
+
+Here we observe that the 2-bit didigtal input has been converted into its corresponding analog output.
+We 2^2 = 4 steps in the analog output.
+
 -------------------------------------------------------
 ## 3-bit DAC
 
@@ -83,6 +88,9 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 
 ![3bitoutput](https://user-images.githubusercontent.com/65102677/135658502-d233f94b-8c88-41f7-afd8-2ec36c6356df.png)
 > Fig. 10 Transient analysis of the 3-bit DAC
+
+Here we get 8 steps in the analog output as the system was given 3 digital input bits.
+
 -------------------------------------------------------
 ## 4-bit DAC
 
@@ -92,8 +100,11 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 ![cktlevelsim](https://user-images.githubusercontent.com/65102677/135658986-4cd6d960-0758-49a0-870f-d71a7c600279.png)
 > Fig. 12 Simulation of the 4-bit DAC in pgspice
 
-![wave](https://user-images.githubusercontent.com/65102677/135659019-43c6ef8f-118e-4b44-b011-1ec6f0ac27e1.png)
+![4bit](https://user-images.githubusercontent.com/65102677/135712512-19e10955-b2bb-4943-b6a2-a2b941d0e7cd.png)
 > Fig. 13 Transient analysis of the 4-bit DAC
+
+Here we get 16 steps in the analog output as the system was given 4 digital input bits.
+
 -------------------------------------------------------
 ## 5-bit DAC
 
@@ -103,8 +114,11 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 ![sim](https://user-images.githubusercontent.com/65102677/135659286-83074922-fb2c-4392-bf12-d0c2faef7b5c.png)
 > Fig. 15 Simulation of the 5-bit DAC in pgspice
 
-![waveform](https://user-images.githubusercontent.com/65102677/135659302-5025e415-88eb-48e5-a29f-0dbeca2d4afb.png)
+![image](https://user-images.githubusercontent.com/65102677/135712627-7d8920e9-1343-4f0c-b608-aaeea02bbef4.png)
 > Fig. 16 Transient analysis of the 5-bit DAC
+
+Here we get 32 steps in the analog output as the system was given 5 digital input bits.
+
 -------------------------------------------------------
 ## 6-bit DAC
 
@@ -114,8 +128,11 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 ![sim](https://user-images.githubusercontent.com/65102677/135659663-de78a334-080d-4efb-b487-51ed35bc16ed.png)
 > Fig. 18 Simulation of the 6-bit DAC in pgspice
 
-![waveform](https://user-images.githubusercontent.com/65102677/135659675-b369a97f-c6a5-4ccc-b549-26250c55e757.png)
+![6bit](https://user-images.githubusercontent.com/65102677/135712792-710cb06b-1769-4602-bbdc-ee98fd9eaa25.png)
 > Fig. 19 Transient analysis of the 6-bit DAC
+
+Here we get 64 steps in the analog output as the system was given 6 digital input bits.
+
 -------------------------------------------------------
 ## 7-bit DAC
 
@@ -125,8 +142,11 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 ![sim](https://user-images.githubusercontent.com/65102677/135660274-00012481-9791-482e-b75c-9cfaa8d030c7.png)
 > Fig. 21 Simulation of the 7-bit DAC in pgspice
 
-![waveform](https://user-images.githubusercontent.com/65102677/135660407-d6ce3d94-5c2c-4dc4-bfc5-9b38a3c64e1b.png)
+![7bit](https://user-images.githubusercontent.com/65102677/135713096-74959a9d-fbc6-45a4-ad9b-a4fabaf2d1ba.png)
 > Fig. 22 Transient analysis of the 7-bit DAC
+
+Here we get 128 steps in the analog output as the system was given 7 digital input bits.
+
 -------------------------------------------------------
 ## 8-bit DAC
 
@@ -138,6 +158,9 @@ From the output graph for the Switch circuit we can observe that the circuit is 
 
 ![waveform](https://user-images.githubusercontent.com/65102677/135660694-164b7059-3f9b-4ec7-8438-e73bb001cf17.png)
 > Fig. 25 Transient analysis of the 8-bit DAC
+
+Here we get 256 steps in the analog output as the system was given 8 digital input bits.
+
 -------------------------------------------------------
 ## 9-bit DAC
 
